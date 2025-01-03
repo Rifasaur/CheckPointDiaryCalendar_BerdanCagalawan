@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "438302600876",
+    "project_id": "startup-33908",
+    "storage_bucket": "startup-33908.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438302600876:android:06df7a919c40d7d628b909",
+        "android_client_info": {
+          "package_name": "com.example.cagalawan_databaseactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_sSNZbcm6-LPfNWoSrctN533NMub59s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438302600876:android:c4c84218099d02f428b909",
+        "android_client_info": {
+          "package_name": "com.example.cagalwan_act5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_sSNZbcm6-LPfNWoSrctN533NMub59s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438302600876:android:1b2629b03f7e09f128b909",
+        "android_client_info": {
+          "package_name": "com.example.checkpointdiarycalendar_berdancagalawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_sSNZbcm6-LPfNWoSrctN533NMub59s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
